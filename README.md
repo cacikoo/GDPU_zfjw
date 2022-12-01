@@ -4,7 +4,7 @@
 必备步骤
 ---
 1.安装依赖
-python版本需要高于3.7
+<code>python版本需要高于3.7</code>
 ```shell
 pip install -r requirements.txt
 ```
